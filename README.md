@@ -1,3 +1,6 @@
+> **:truck: moved to https://github.com/NordicSemiconductor/asset-tracker-cloud-device-ui-js**  
+> :information_source: [more info](https://github.com/bifravst/bifravst/issues/56)
+
 # Device Simulator Web Application
 
 [![GitHub Actions](https://github.com/bifravst/device-ui/workflows/Test%20and%20Release/badge.svg)](https://github.com/bifravst/device-ui/actions)
